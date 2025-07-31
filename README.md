@@ -1,2 +1,1 @@
-# BGT-test-clame... ..... ...
-.
+# BGT-test-clame.
